@@ -72,8 +72,10 @@ Visualization	matplotlib, seaborn, wordcloud
 
 Team Members and Roles
 
-Name	          Responsibility
-Sornamalya T	 Data cleaning & preprocessing
-Thasmiya M	   EDA & Feature engineering
-Deepika D	     Model development & tuning
-Abirami B	     Visualization & documentation
+| **Name**     | **Responsibility**            |
+| ------------ | ----------------------------- |
+| Sornamalya T | Data Cleaning & Preprocessing |
+| Thasmiya M   | EDA & Feature Engineering     |
+| Deepika D    | Model Development & Tuning    |
+| Abirami B    | Visualization & Documentation |
+
